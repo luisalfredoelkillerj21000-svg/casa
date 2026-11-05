@@ -1,0 +1,6 @@
+{
+  "name": "Plano Arquitectónico 8x15m - 2do Piso",
+  "description": "Diseño arquitectónico profesional para segundo piso de 8x15m con 2 departamentos independientes, escalera frontal derecha, visor 2D/3D y cálculo de áreas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
